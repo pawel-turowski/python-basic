@@ -1,1 +1,2 @@
-print("hello word")
+def foo():
+    print("bar")
